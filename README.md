@@ -1,3 +1,3 @@
 # omnifood
-fake website a natrual restaurant!
+fake website a natrual restaurant
 
